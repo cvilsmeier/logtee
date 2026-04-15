@@ -1,8 +1,5 @@
 # logtee
 
-[![GoDoc Reference](https://pkg.go.dev/badge/github.com/cvilsmeier/logtee)](http://godoc.org/github.com/cvilsmeier/logtee)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/license/mit)
-
 Logtee is a tool for writing a stream of log lines into rolling log files, optionally with compression.
 
 ## Installation
