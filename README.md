@@ -2,6 +2,9 @@
 
 Logtee is a tool for writing a stream of log lines into rolling log files, optionally with compression.
 
+Technically, logtee is just a small CLI wrapper for the fantastic https://github.com/DeRuina/timberjack library.
+
+
 ## Installation
 
 ```bash
@@ -44,3 +47,5 @@ Examples:
     max. file size is 20 MB (instead of 100 MB) and the max. number
     of backup files is 30 (instead of 10).
 ~~~
+
+
