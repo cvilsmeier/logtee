@@ -44,12 +44,3 @@ Examples:
     max. file size is 20 MB (instead of 100 MB) and the max. number
     of backup files is 30 (instead of 10).
 ~~~
-
-
-## License
-
-The MIT License (MIT)
-
-Copyright (c) 2026 C.Vilsmeier
-
-See [LICENSE](LICENSE)

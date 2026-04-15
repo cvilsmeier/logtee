@@ -1,4 +1,4 @@
-module logtee
+module github.com/cvilsmeier/logtee
 
 go 1.26.2
 
